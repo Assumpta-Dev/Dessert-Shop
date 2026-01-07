@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  overflow-x: hidden;
+}
+
+button {
+  cursor: pointer;
+}
+button:hover {
+  background-color: orange;
+  color: white;
+}
