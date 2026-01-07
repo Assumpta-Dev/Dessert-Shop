@@ -8,7 +8,7 @@ const dessertsData: Dessert[] = [
     name: "Pistachio Baklava",
     category: "Baklava",
     price: 4,
-    image: "/public/image-baklava-desktop.jpg",
+    image: "/image-baklava-desktop.jpg",
     description: "Delicious pistachio baklava",
     inStock: true,
   },
@@ -17,7 +17,7 @@ const dessertsData: Dessert[] = [
     name: "Waffle with Berries",
     category: "Waffle",
     price: 6.5,
-    image: "/public/image-waffle-tablet.jpg",
+    image: "/image-waffle-tablet.jpg",
     description: "Tasty waffle with fresh berries",
     inStock: true,
   },
@@ -26,7 +26,7 @@ const dessertsData: Dessert[] = [
     name: "Classic Tiramisu",
     category: "Tiramisu",
     price: 5.5,
-    image: "/public/image-tiramisu-tablet.jpg",
+    image: "/image-tiramisu-tablet.jpg",
     description: "Creamy classic tiramisu",
     inStock: true,
   },
@@ -35,7 +35,7 @@ const dessertsData: Dessert[] = [
     name: "Vanilla Panna Cotta",
     category: "Panna Cotta",
     price: 6.5,
-    image: "/public/image-panna-cotta-desktop.jpg",
+    image: "/image-panna-cotta-desktop.jpg",
     description: "Smooth vanilla panna cotta",
     inStock: true,
   },
@@ -44,7 +44,7 @@ const dessertsData: Dessert[] = [
     name: "Meringue with Berries",
     category: "Meringue",
     price: 5.5,
-    image: "/public/image-meringue-tablet.jpg",
+    image: "/image-meringue-tablet.jpg",
     description: "Light meringue with berries",
     inStock: true,
   },
@@ -53,7 +53,7 @@ const dessertsData: Dessert[] = [
     name: "Macaron Mix of Five",
     category: "Macaron",
     price: 8,
-    image: "/public/image-macaron-tablet.jpg",
+    image: "/image-macaron-tablet.jpg",
     description: "Colorful macarons mix",
     inStock: true,
   },
@@ -62,7 +62,7 @@ const dessertsData: Dessert[] = [
     name: "Classic Tiramisu",
     category: "Tiramisu",
     price: 5.5,
-    image: "/public/image-tiramisu-tablet.jpg",
+    image: "/image-tiramisu-tablet.jpg",
     description: "Creamy classic tiramisu",
     inStock: true,
   },
@@ -71,7 +71,7 @@ const dessertsData: Dessert[] = [
     name: "Waffle with Berries",
     category: "Waffle",
     price: 6.5,
-    image: "/public/image-waffle-tablet.jpg",
+    image: "/image-waffle-tablet.jpg",
     description: "Tasty waffle with fresh berries",
     inStock: true,
   },
@@ -80,7 +80,7 @@ const dessertsData: Dessert[] = [
     name: "Salted Caramel Brownie",
     category: "Brownie",
     price: 3.5,
-    image: "/public/image-brownie-mobile.jpg",
+    image: "/image-brownie-mobile.jpg",
     description: "Rich salted caramel brownie",
     inStock: true,
   },
@@ -170,7 +170,7 @@ function LandingPage() {
                       className="flex items-center gap-2"
                     >
                       <img
-                        src="/public/icon-add-to-cart.svg"
+                        src="/icon-add-to-cart.svg"
                         alt="Add to cart"
                         className="w-4 h-4"
                       />
@@ -203,7 +203,7 @@ function LandingPage() {
           {cart.length === 0 ? (
             <>
               <img
-                src="/public/image-meringue-desktop.jpg"
+                src="/image-meringue-desktop.jpg"
                 alt="Meringue dessert"
                 className="w-24 h-24 m-auto rounded-lg object-cover shadow-lg"
               />
@@ -230,7 +230,7 @@ function LandingPage() {
                     className=" font-bold text-xl"
                   >
                     <img
-                      src="/public/icon-remove-item.svg"
+                      src="/icon-remove-item.svg"
                       alt="Remove from cart"
                       className="w-4 h-4"
                     />
