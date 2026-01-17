@@ -71,3 +71,29 @@ export default defineConfig([
   },
 ])
 ```
+E-commerce Dessert Shop Application (Full-Stack)
+
+Technologies: React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger
+
+Description:
+This project is an online dessert shop where users can browse products, add items to a cart, and proceed to checkout. The application also supports basic product and category management.
+
+What I worked on:
+
+Developed the front-end interface using React, TypeScript, and Tailwind CSS
+
+Implemented cart functionality (add/remove items)
+
+Built backend APIs using Node.js
+
+Documented API endpoints using Swagger
+
+Integrated MongoDB to store users, products, and categories
+
+Implemented CRUD operations with role-based privileges
+
+Project status:
+In progress – backend integration and API refinement are ongoing.
+
+What I learned:
+API design, backend integration, database modeling, and understanding full-stack workflows.
