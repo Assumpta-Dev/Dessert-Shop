@@ -7,11 +7,11 @@ Technologies: React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger
 
 This project is an online dessert shop application where users can browse desserts, add items to their cart, and proceed to checkout. The project focuses on building a full-stack system with proper data handling and API structure.
 
-My Role
+### My Role
 
 I am developing the application independently, working on both the front-end and backend components.
 
-Current Features
+### Current Features
 
 Product listing and cart functionality
 
@@ -29,7 +29,7 @@ Integrating MongoDB to store users, categories, and products
 
 Implementing CRUD operations with user authorization and role-based privileges
 
-What I Am Learning
+### What I Am Learning
 
 API design and documentation
 
