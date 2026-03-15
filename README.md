@@ -1,4 +1,4 @@
-Dessert Shop E-commerce Application
+##Dessert Shop E-commerce Application##
 
 Status: In Progress
 Technologies: React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger
