@@ -1,9 +1,9 @@
-##Dessert Shop E-commerce Application##
+#Dessert Shop E-commerce Application
 
 Status: In Progress
 Technologies: React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger
 
-Description
+##Description
 
 This project is an online dessert shop application where users can browse desserts, add items to their cart, and proceed to checkout. The project focuses on building a full-stack system with proper data handling and API structure.
 
