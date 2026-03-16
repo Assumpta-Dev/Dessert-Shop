@@ -1,40 +1,32 @@
 # Dessert Shop E-commerce Application
 
-Status: In Progress
-Technologies: React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger
-
 ## Description
+A full-stack e-commerce web application that allows users to browse desserts, add items to a cart, and place orders online.
 
-This project is an online dessert shop application where users can browse desserts, add items to their cart, and proceed to checkout. The project focuses on building a full-stack system with proper data handling and API structure.
+## Technologies
+**React, TypeScript, Tailwind CSS, Node.js, MongoDB, Swagger, Git**
 
-### My Role
+## Project Overview
+The Dessert Shop application is an e-commerce platform designed for a dessert business. Users can browse available dessert products, add items to their shopping cart, and proceed to checkout.
 
-I am developing the application independently, working on both the front-end and backend components.
+The backend is implemented using REST APIs that manage users, products, and categories, while the frontend provides a clean and responsive shopping experience.
 
-### Current Features
+## Features
+- Browse dessert products
+- Add items to a shopping cart
+- Product and category management
+- User authentication and role-based access
+- REST API documentation using Swagger
 
-Product listing and cart functionality
+## What I Implemented
+- Product browsing interface
+- Shopping cart functionality
+- Backend API for product and user management
+- Database integration for storing products and users
 
-Add and remove items from the cart
-
-Responsive user interface
-
-Backend Work (Ongoing)
-
-Developing REST APIs using Node.js
-
-Documenting endpoints with Swagger
-
-Integrating MongoDB to store users, categories, and products
-
-Implementing CRUD operations with user authorization and role-based privileges
-
-### What I Am Learning
-
-API design and documentation
-
-Backend–frontend integration
-
-Database modeling and access control
+## What I Learned
+- Building RESTful APIs
+- Structuring full-stack web applications
+- Managing product and user data in an e-commerce system
 
 Live demo: https://my-dessert-shop.netlify.app/
